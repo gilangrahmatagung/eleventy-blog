@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master # main atau master
+  branch: main # main atau master
 
 media_folder: "public/uploads" # Lokasi di Git
 public_folder: "/uploads" # Path URL di situs
